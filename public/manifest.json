@@ -1,0 +1,20 @@
+{
+  "name": "My Pet Grace",
+  "short_name": "PetGrace",
+  "description": "Faith-inspired pet care and pet loss grief support for pet-loving families.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FDF8F3",
+  "theme_color": "#B8684A",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["lifestyle", "health", "family"],
+  "lang": "en-US"
+}
